@@ -1,1 +1,34 @@
+p {
+  color: Purple;
+  font-family: helvetica;
+}
 
+ol {
+  font-weight: 450;
+  font-family: ariel;
+}
+
+ul {
+  display: inline-block;
+  background-color: #05A8AA;
+}
+
+h1 {
+  background-color: #05A8AA;
+  line-height: 400px;
+}
+
+header {
+  text-align: center;
+  text-decoration: underline;
+}
+
+body {
+  margin-top: 18px;
+  width: 90px;
+}
+
+footer {
+  color: red;
+  font-size: 14px;
+}
